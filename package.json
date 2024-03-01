@@ -1,0 +1,15 @@
+{
+  "name": "team-generator-oop",
+  "version": "1.0.0",
+  "description": "Team Generator Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Andre Luiz Polzin",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
