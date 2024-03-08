@@ -118,7 +118,7 @@ const createPage = function(teamHtml) {
     
     </html>`
    
-    fs.writeFile("./dist/index.html", page, (error) => {
+    fs.writeFile("./docs/index.html", page, (error) => {
 
         if (error) {
             throw error;
